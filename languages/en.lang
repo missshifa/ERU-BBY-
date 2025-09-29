@@ -51,7 +51,7 @@ ALVI.cantOnload=Failed to initialize module %1. Error: %2
 ALVI.successLoadModule=Module %1 loaded successfully
 ALVI.failLoadModule=Failed to load module %1. Error: %2
 ALVI.finishLoadModule=Successfully loaded %1 commands and %2 events
-shahadat.handleListenError=Listener encountered an error: %1
+ALVI.handleListenError=Listener encountered an error: %1
 ALVI.warningSourceCode=WARNING: Source code structure modified unexpectedly!
 ALVI.successConnectDatabase=Database connection established successfully
 
