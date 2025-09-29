@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Made by:</strong> Alvi Islam<br>
-  <strong>GitHub:</strong> [@srovi2007akash-stack](https://github.com/alvi-boss)<br>
+  <strong>GitHub:</strong> [@alvi-boss](https://github.com/alvi-boss)<br>
   <strong>Telegram:</strong> [@AKPremiumZone](https://t.me/AKPremiumZone)
 </p>
 
