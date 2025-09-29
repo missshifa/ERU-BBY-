@@ -1,7 +1,7 @@
 # 🤖 CHAT-BOT-ALVI-V1
 
 <p align="center">
-  <img src="https://i.imgur.com/6q0XdXD.jpeg" width="150" height="150" style="border-radius:50%;">
+  <img src="https://i.imgur.com/1SrDIOM.jpeg" width="150" height="150" style="border-radius:50%;">
 </p>
 
 <p align="center">
