@@ -2,7 +2,7 @@
   "name": "ALVI",
   "version": "20.0.1",
   "description": "MODE BY ALVI",
-  "main": "index",
+  "main": "index.js",
   "engines": {
       "node": "20.x",
       "npm": "10.0.0"
@@ -14,15 +14,15 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/ALVI-boss/ALVI-CHAT-BOT-V1.git"
+      "url": "https://github.com/alvi-boss/ALVI-BOT-COMMUNITY.git"
   },
   
   "author": "ALVI",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/ALVI-boss/ALVI-CHAT-BOT-V1.git"
+      "url": "https://github.com/alvi-boss/ALVI-BOT-COMMUNITY.git"
   },
-  "homepage": "https://github.com/ALVI-boss/ALVI-CHAT-BOT-V1.git",
+  "homepage": "https://github.com/alvi-boss/ALVI-BOT-COMMUNITY.git",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
