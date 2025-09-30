@@ -11,7 +11,7 @@ cooldowns: 3,
 
 module.exports.run = async function({ api, event }) {
 return api.sendMessage(
-"🔗 GitHub Repo Link:\n\nhttps://github.com/alviislamok/ALVI-CHAT-BOT.git",
+"🔗 GitHub Repo Link:\n\nhttps://github.com/alvi-boss/ALVI-BOT-COMMUNITY.git",
 event.threadID,
 event.messageID
 );
