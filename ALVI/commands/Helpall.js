@@ -2,7 +2,7 @@ const fs = require("fs-extra");
 const request = require("request");
 
 module.exports.config = {
- name: "helpall",
+ name: "help",
  version: "1.0.0",
  hasPermssion: 0,
  credits: "ALVI",
@@ -26,20 +26,17 @@ module.exports.run = async function ({ api, event }) {
 
  allCommands.sort();
 
- const finalText = `╔═══❖ 🌟 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓 🌟 ❖═══╗
+ const finalText = `╔═❖ 🌟 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓 🌟 ❖══╗
 ${allCommands.map(cmd => `║ ➔ ${cmd}`).join("\n")}
-╠═════🔰 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 🔰═════╣
-║ 🤖 𝐁𝐨𝐭: ─꯭─⃝‌‌𝐀𝐥𝐯𝐢 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭
-║ 👑 𝐎𝐰𝐧𝐞𝐫: 𝐀𝐋𝐕𝐈 𝐈𝐒𝐋𝐀𝐌
+╠═════ 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 ═════╣
+║ 🤖 𝐁𝐨𝐭: ─꯭─⃝‌‌𝑬𝒓𝒖 𝒃𝒃𝒚
+║ 👑 𝐎𝐰𝐧𝐞𝐫: 𝑶𝒓𝒆𝒌𝒊
 ║ 📦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬: ${allCommands.length} 
-╚═══════════════════════╝`;
+╚════════════════╝`;
 
  
  const backgrounds = [
- "https://i.imgur.com/1SrDIOM.jpeg",
- "https://i.imgur.com/sKO7ie0.jpeg",
- "https://i.imgur.com/eyFzZVC.jpeg",
- "https://i.imgur.com/1HsCHYU.jpeg"
+ "https://i.imgur.com/nW94ea9.jpeg"
  ];
  const selectedBg = backgrounds[Math.floor(Math.random() * backgrounds.length)];
  const imgPath = __dirname + "/cache/helpallbg.jpg";
