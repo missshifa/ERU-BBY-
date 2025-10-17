@@ -1,6 +1,6 @@
 ---------
 
-### —͟͟͞͞𝐀𝐋𝐕𝐈 𝐁𝐎𝐓 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘 🌺
+### —͟͟͞͞SIFU 𝐁𝐎𝐓 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘 🌺
 
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`** 
 
@@ -9,7 +9,7 @@
 Assalamualaikum Everyone!  
 **Welcome to My Alvi Bot Community Fork!**
 
-![Box-shaped Image](https://i.imgur.com/1SrDIOM.jpeg)
+![Box-shaped Image](https://i.imgur.com/5lfadU8.mp4)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <span style="font-size: 24px; font-weight: bold;">ALVI BOT COMMUNITY</span><br>
